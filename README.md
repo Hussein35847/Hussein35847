@@ -1,51 +1,48 @@
-<h1 align="center">Hi 👋, I'm Hussein Amer</h1>
-<h3 align="center">Frontend Developer | Building modern, responsive web apps</h3>
+# 👋 Hi, I'm Hussein
+
+💻 Web Developer building secure and modern tools
+🔐 Creator of **OpenLock** — Password Manager + TOTP in one extension
+🌍 Based in Jordan
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Project
 
-* 🌍 Based in Jordan
-* 💻 Focused on **HTML, CSS, JavaScript, React**
-* ⚡ I build clean UI and interactive web experiences
-* 📚 Currently learning **React.js & Next.js**
+### 🔐 OpenLock
 
----
+A privacy-first browser extension that combines:
 
-### 🔥 Featured Project
+* Password Manager
+* TOTP (2FA) Generator
+* Local encrypted storage (no backend)
 
-* 🔐 **OPEN Password Generator**
-  👉 https://premiumpasswordgenerator.web.app/
-
-  * Generate secure passwords with custom options
-  * Clean UI & responsive design
-  * Built with JavaScript
+👉 Check the project in my repositories
 
 ---
 
-### 🌐 Portfolio
+## 🧠 What I'm Working On
 
-👉 https://husseinamerportfolio.web.app/
-
----
-
-### 🛠️ Tech Stack
-
-* Frontend: HTML, CSS, JavaScript, React
-* Backend/Tools: Node.js, Firebase
-* Version Control: Git
+* 🔐 Improving OpenLock security & encryption
+* ⚡ Building fast and minimal browser extensions
+* 🎨 Designing clean UI/UX
 
 ---
 
-### 📫 Contact Me
+## 🛠️ Tech Stack
 
-* Email: [7ussein.amer7@gmail.com](mailto:7ussein.amer7@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/hussein-amer-3845693ba/
+* JavaScript (Vanilla)
+* HTML / CSS
+* Web Crypto API
+* Chrome Extensions API
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussein35847&show_icons=true" />
-</p>
+##
+
+---
+
+## 🔥 Goal
+
+> Build simple, secure tools that respect user privacy.
