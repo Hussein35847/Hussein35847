@@ -46,6 +46,9 @@ A privacy-first browser extension that combines:
 <a href="https://www.instagram.com/7ussein_amer7" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" style="vertical-align: middle; margin-right: 10px;" />
 </a>
+<a href="https://www.linkedin.com/in/hussein-amer-3845693ba/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="vertical-align: middle; margin-right: 10px;" />
+</a>
 
 ## 🔥 Goal
 
