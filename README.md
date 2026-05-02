@@ -36,8 +36,7 @@ A privacy-first browser extension that combines:
 ## Now Learning 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,react,aws)](https://skillicons.dev)
 
-## Get In Touch
-https://skillicons.dev/icons?i=gmail <href>mailto:webdevhussein@gmail.com</href>
+
 ## 🔥 Goal
 
 > Build simple, secure tools that respect user privacy.
