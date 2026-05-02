@@ -14,9 +14,9 @@
 
 A privacy-first browser extension that combines:
 
-* Password Manager
-* TOTP (2FA) Generator
-* Local encrypted storage (no backend)
+- Password Manager
+- TOTP (2FA) Generator
+- Local encrypted storage (no backend)
 
 👉 Check the project in my repositories
 
@@ -24,19 +24,26 @@ A privacy-first browser extension that combines:
 
 ## 🧠 What I'm Working On
 
-* 🔐 Improving OpenLock security & encryption
-* ⚡ Building fast and minimal browser extensions
-* 🎨 Designing clean UI/UX
+- 🔐 Improving OpenLock security & encryption
+- ⚡ Building fast and minimal browser extensions
+- 🎨 Designing clean UI/UX
 
 ---
 
 ## Tools and Programming languages
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin,vscode,windows,git)](https://skillicons.dev)
 
-## Now Learning 
+## Now Learning
+
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,react,aws)](https://skillicons.dev)
 
+## 📬 Get in Touch
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:webdevhussein@gmail.com) [webdevhussein@gmail.com](mailto:webdevhussein@gmail.com)
 
 ## 🔥 Goal
 
 > Build simple, secure tools that respect user privacy.
+
+---
