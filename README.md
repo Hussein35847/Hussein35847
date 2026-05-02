@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="mario" src="https://github.com/user-attachments/assets/3b8286a4-484b-4c08-95b3-7b6980af01a9" />
 
-## 👋 Hi, I'm Hussein
+## <img width="50" height="37" alt="hello" src="https://github.com/user-attachments/assets/2902d91b-a849-4341-949c-c1fdf3bef1ad" /> Hi, I'm Hussein
 
 💻 Web Developer building secure and modern tools
 🔐 Creator of **OpenLock** — Password Manager + TOTP in one extension
