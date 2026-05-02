@@ -39,11 +39,8 @@ A privacy-first browser extension that combines:
 
 ---
 
-## 📊 GitHub Stats
-
-##
-
----
+## Tools and Programming languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin)](https://skillicons.dev)
 
 ## 🔥 Goal
 
