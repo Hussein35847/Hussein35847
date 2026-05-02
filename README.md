@@ -30,21 +30,14 @@ A privacy-first browser extension that combines:
 
 ---
 
-## 🛠️ Tech Stack
-
-* JavaScript (Vanilla)
-* HTML / CSS
-* Web Crypto API
-* Chrome Extensions API
-
----
-
 ## Tools and Programming languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin,vscode,windows,git)](https://skillicons.dev)
 
 ## Now Learning 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,react,aws)](https://skillicons.dev)
 
+## Get In Touch
+https://skillicons.dev/icons?i=gmail <href>mailto:webdevhussein@gmail.com</href>
 ## 🔥 Goal
 
 > Build simple, secure tools that respect user privacy.
