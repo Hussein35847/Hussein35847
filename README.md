@@ -40,7 +40,10 @@ A privacy-first browser extension that combines:
 ---
 
 ## Tools and Programming languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin,vscode,windows,git)](https://skillicons.dev)
+
+## Now Learning 
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,react,aws)](https://skillicons.dev)
 
 ## 🔥 Goal
 
