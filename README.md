@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="mario" src="https://github.com/user-attachments/assets/3b8286a4-484b-4c08-95b3-7b6980af01a9" />
+<img width="1983" height="793" alt="ChatGPT Image May 2, 2026, 02_19_15 PM" src="https://github.com/user-attachments/assets/02d9be13-4588-4a2e-b2a1-2d090c8ddc7a" />
 
 ## <img width="50" height="37" alt="hello" src="https://github.com/user-attachments/assets/2902d91b-a849-4341-949c-c1fdf3bef1ad" /> Hi, I'm Hussein
 
