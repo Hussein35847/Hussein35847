@@ -24,7 +24,7 @@ A privacy-first browser extension that combines:
 
 ## Tools and Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin,vscode,windows,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,vscode,windows,kali,git)](https://skillicons.dev)
 
 ## Now Learning
 
