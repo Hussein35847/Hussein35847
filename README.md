@@ -50,8 +50,3 @@ A privacy-first browser extension that combines:
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="vertical-align: middle; margin-right: 10px;" />
 </a>
 
-## 🔥 Goal
-
-> Build simple, secure tools that respect user privacy.
-
----
