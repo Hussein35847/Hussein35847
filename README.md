@@ -42,7 +42,7 @@ A privacy-first browser extension that combines:
 
 <a href="mailto:webdevhussein@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" style="vertical-align: middle; margin-right: 10px;" />
-</a> [webdevhussein@gmail.com](mailto:webdevhussein@gmail.com)
+</a>
 
 ## 🔥 Goal
 
