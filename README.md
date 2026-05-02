@@ -22,14 +22,6 @@ A privacy-first browser extension that combines:
 
 ---
 
-## 🧠 What I'm Working On
-
-- 🔐 Improving OpenLock security & encryption
-- ⚡ Building fast and minimal browser extensions
-- 🎨 Designing clean UI/UX
-
----
-
 ## Tools and Programming languages
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,gmail,instagram,kali,linkedin,vscode,windows,git)](https://skillicons.dev)
