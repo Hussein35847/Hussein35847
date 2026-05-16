@@ -26,7 +26,7 @@ A privacy-first browser extension that combines:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,github,git,vscode,windows,kali)](https://skillicons.dev)
 
-## Now Learning
+## Ineed To Learn
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,react,aws)](https://skillicons.dev)
 
