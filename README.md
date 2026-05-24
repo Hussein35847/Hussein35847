@@ -45,5 +45,4 @@ A privacy-first browser extension that combines:
 
 ***
 My Portfolio
-https://husseinamerportfolio.web.app/
-
+https://husseinamer.web.app/
